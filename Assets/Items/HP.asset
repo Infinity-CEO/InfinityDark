@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db8b1501563c41468714906736f7879, type: 3}
+  m_Name: HP
+  m_EditorClassIdentifier: 
+  itemName: Medicalbox
+  itemDesc: Recover HP90
+  itemType: 1
+  itemImage: {fileID: 21300000, guid: 78048a70a91367649a7d8db91582658c, type: 3}
+  itemPrefab: {fileID: 1987713744733760, guid: b55df95fa6211964e8ad561501250fac, type: 3}
+  weaponType: 
